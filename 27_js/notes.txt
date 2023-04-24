@@ -1,0 +1,21 @@
+Team Crispy Elevator :: Verit Li, Johnathan Song
+SoftDev pd7
+K27 -- Basic functions in JavaScript
+2023-04-03t
+
+DISCO
+-----------------------------------------------------------------
+* Ooooh, to establish a funciton in JavaScript you start with the word 
+  "funciton" instead of "define" like scheme
+* Aaah-haa!  creating a function in JavaScript doesn't require 
+  "lambda" like in scheme
+* JavaScript syntax very much like Java
+=================================================================
+
+QCC
+-----------------------------------------------------------------
+* Why...?
+* Huh?
+* Teh whah now?
+* ...
+=================================================================
